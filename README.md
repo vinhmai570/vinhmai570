@@ -2,7 +2,7 @@
 
 ### About Me 
 
-A backend developer
+I'm a backend developer
 
 ### 🛠 &nbsp;Tech Stack
 
