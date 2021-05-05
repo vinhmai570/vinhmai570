@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey there! I'm Roshan Ranabhat (_gobeam_)
 
-<!--
-**vinhmai570/vinhmai570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 
 
-Here are some ideas to get you started:
+A backend developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+
+- 💻 &nbsp;
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+
+[![](https://github-readme-stats.vercel.app/api?username=vinhmai570&theme=buefy&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhmai570&theme=buefy&layout=compact)](https://github.com/vinhmai570)
