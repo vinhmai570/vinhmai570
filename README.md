@@ -9,7 +9,6 @@ I'm a backend developer
 - 💻 &nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
