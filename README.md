@@ -1,4 +1,4 @@
-# Hey there! I'm Mai Vinh (vinhmai570)
+# Hey, I'm Mai Vinh
 
 ### About Me 
 
