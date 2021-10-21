@@ -17,4 +17,3 @@ I'm a backend developer
 
 
 [![](https://github-readme-stats.vercel.app/api?username=vinhmai570&theme=buefy&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhmai570&theme=buefy&layout=compact)](https://github.com/vinhmai570)
