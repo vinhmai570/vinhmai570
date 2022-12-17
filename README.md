@@ -12,4 +12,4 @@
 
 **MQTT**: RabbitMQ
 
-**Others**: Linux, macOS, Docker, Github, Gitlab, Bitbucket
+**Others**: Linux, macOS, Docker, Github, Gitlab, Bitbucket, ...
