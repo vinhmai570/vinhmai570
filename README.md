@@ -6,7 +6,7 @@
 
 **Database**: PostgreSQL, MySQL, Redis
 
-**Frontend Skills**: HTML, CSS, Javascript, VueJS
+**Frontend Skills**: HTML, CSS, Javascript, Jquery, VueJS
 
 **Cloud Services**: AWS
 
